@@ -1,0 +1,8 @@
+# Ignore following folders and files
+build/
+dist/
+info/
+releases/
+.venv/
+*.spec
+version.txt
